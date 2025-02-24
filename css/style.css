@@ -490,3 +490,20 @@ h6,
         margin-bottom: -75px;
     }
 }
+
+
+.technology-stack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stack-item {
+    text-align: center;
+    padding: 20px;
+}
+
+.stack-item img {
+    width: 100px;
+    height: auto;
+}
